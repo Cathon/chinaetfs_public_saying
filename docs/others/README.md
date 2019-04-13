@@ -20,3 +20,11 @@
 + [约翰伯格系列读书笔记](https://www.jisilu.cn/question/300567)
 + [先锋领航Vanguard（雪球）](https://xueqiu.com/u/7056513801)
 
+---
+
+网格策略资料
+
++ [网格交易资料留档](https://xueqiu.com/5138512681/75058460)
++ [网格定投](https://xueqiu.com/1203611109/107283770)
++ [微博评论](https://weibo.com/5687069307/Hp70fi9vB?filter=hot&root_comment_id=4359853348575965)
++ [微博评论](https://weibo.com/5687069307/HaQqj4d0G)
