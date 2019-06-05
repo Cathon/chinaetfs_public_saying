@@ -8,5 +8,7 @@
 		* [2019年2月](weibo_weibo/201902.md)
 		* [2019年3月](weibo_weibo/201903.md)
 		* [2019年4月](weibo_weibo/201904.md)
+		* [2019年5月](weibo_weibo/201905.md)
+		* [2019年6月](weibo_weibo/201906.md)
 * [微博问答](weibo_qa/README)
 * [其他内容](others/README)
