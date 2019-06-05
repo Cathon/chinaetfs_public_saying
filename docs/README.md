@@ -4,7 +4,7 @@
 
 - [新浪微博的微博](weibo_weibo/README)
 - [新浪微博的问答](weibo_qa/README)
-- 微信公众号的文章
+- [微信公众号的文章](wechat/README)
 - 雪球的文章
 - 网易博客的文章
 - 集思录的文章
